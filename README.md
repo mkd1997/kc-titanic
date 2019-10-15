@@ -1,2 +1,2 @@
 # kc-titanic
-Kaggle Titanic Survival Problem
+Kaggle Titanic Survival Problem.
